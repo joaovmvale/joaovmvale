@@ -1,9 +1,9 @@
 #### Welcome to my GitHub profile 👋
 
 ### > About me 🔋:
- - ##### 📚Hello, I'm João and currently I'm studying Information Systems (3rd    semester) at PUCPR, an university from Paraná, Brazil.
- - ##### 🤖I'm also in the robotics team of the university, where we build and develop intelligences for different kinds of competitions.
- - ##### 🔨I have been working as a intern at Siemens AG.
+ - #### 📚Hello, I'm João and currently I'm studying Information Systems (3rd    semester) at PUCPR, an university from Paraná, Brazil.
+ - #### 🤖I'm also in the robotics team of the university, where we build and develop intelligences for different kinds of competitions.
+ - #### 🔨I have been working as a intern at Siemens AG.
 ### > Technologies ⚙️:
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></a>
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a>
