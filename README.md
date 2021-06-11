@@ -17,4 +17,4 @@
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" style="max-width:100%;"></a>
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width:100%;"></a>
 ### > Reach me out 📲:
-<a href="https://www.linkedin.com/joaovmvale"><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/joaovmvale"><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
