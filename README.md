@@ -1,4 +1,4 @@
-#### Welcome to my GitHub profile 👋
+### Welcome to my GitHub profile 👋
 
 ### > About me 🔋:
  - #### 📚Hello, I'm João and currently I'm studying Information Systems (3rd    semester) at PUCPR, an university from Paraná, Brazil.
