@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile 👋
 
 ### > About me 🔋:
- - #### 📚 Hello, I'm João and currently I'm studying Information Systems (6th semester) at PUCPR, an university from Paraná, Brazil.
+ - #### 📚 Hello, I'm João and currently I'm studying Information Systems (7th semester) at PUCPR, an university from Paraná, Brazil.
  - #### 🤖 I'm also in the robotics team of the university, where we build and develop intelligences for different kinds of competitions.
  - #### 🔨 I have been working as Software Engineer at Dock.tech, a brazilian Unicorn, working mainly with Python and Typescript.
 ### > Technologies ⚙️:
