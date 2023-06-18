@@ -3,7 +3,7 @@
 ### > About me 🔋:
  - #### 📚 Hello, I'm João and currently I'm studying Information Systems (7th semester) at PUCPR, an university from Paraná, Brazil.
  - #### 🤖 I'm also in the robotics team of the university, where we build and develop intelligences for different kinds of competitions.
- - #### 🔨 I have been working as Software Engineer at Dock.tech, a brazilian Unicorn, working mainly with Python and Typescript.
+ - #### 🔨 I have been working as Software Engineer at Dock.tech, a brazilian Unicorn, working mainly with Golang and Python.
 ### > Technologies ⚙️:
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a>
 <a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"></a>
