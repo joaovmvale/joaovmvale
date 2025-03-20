@@ -1,20 +1,10 @@
 ### Welcome to my GitHub profile 👋
 
 ### > About me 🔋:
- - #### 📚 Hello, I'm João and currently I'm studying Information Systems (8th semester) at PUCPR, an university from Paraná, Brazil.
- - #### 🤖 I'm also in the robotics team of the university, where we build and develop intelligences for different kinds of competitions.
- - #### 🔨 I have been working as Software Engineer at Dock.tech, a brazilian Unicorn, working mainly with Golang and Python.
-### > Technologies ⚙️:
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" style="max-width:100%;"></a>
-<a><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width:100%;"></a>
+ - #### 🚀 Software Developer specializing in Golang with experience at **Pizza Hut** and a Bachelor's degree in **Information Systems** from **PUCPR**.
+ - #### 🏅 During my undergraduate studies, I was awarded the **Marcelino Champagnat Academic Merit Award**, given to the student with the best performance in the class. Additionally, my **Final Graduation Project (TCC)** was recognized as the best in the course, a result of hard work and passion for technology.
+ - #### 💡 Always on the lookout for the latest trends in the tech world, I enjoy exploring efficient and scalable solutions. My journey as a developer is driven by curiosity and the desire to create high-quality code.
+ - #### 🤝 I believe technology goes beyond lines of code: **collaboration**, **adaptability**, and **empathy** are essential for building impactful products. I value continuous learning and knowledge exchange.
+
 ### > Reach me out 📲:
 <a href="https://www.linkedin.com/in/joaovmvale"><img align="center" height="50" widht="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
